@@ -11,6 +11,7 @@ Most of my code is private (it runs live businesses), so the pinned repos below 
 - **[Vagabond OPS](https://github.com/jamisonhines/vagabond-ops-case-study)**: operations software for my adventure tour company. CRM, pricing engine and quote builder, vendor management, expense tracking, client portal. Next.js, TypeScript, Supabase.
 - **[AIOS](https://github.com/jamisonhines/aios-case-study)**: a team of specialist AI agents wrapped around a personal knowledge base. Triages my business inbox, writes my morning brief, does the monthly bookkeeping, and files what it learns back into plain markdown files.
 - **[Changa La Gungei](https://github.com/jamisonhines/changa-la-gungei-case-study)**: a language learning game built on full immersion and spaced retrieval. I'm learning Georgian myself, so I'm building the tool I need.
+- **[AI Email Workflow](https://github.com/jamisonhines/email-workflow-case-study)**: triages my business inbox 3x a day, drafts on-brand replies and quotes from the company wiki for a human to approve, and improves itself nightly by comparing its drafts against what actually got sent.
 - **[aios-dashboard](https://github.com/jamisonhines/aios-dashboard)**: an Obsidian plugin (public code) that turns my project files into a live task dashboard.
 
 ## How I work
